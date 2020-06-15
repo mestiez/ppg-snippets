@@ -14,7 +14,7 @@ namespace Mod
                     // make it red
                     wire.SetColor(Color.red);
                     // make it thinner
-                    wire.SetThickness(0.5f);
+                    wire.SetThickness(0.05f);
                 }
             };
         }
