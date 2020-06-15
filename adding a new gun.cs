@@ -18,6 +18,7 @@ ModAPI.Register(
             Cartridge customCartridge = ModAPI.FindCartridge("9mm"); //load an instanced 9mm cartridge
             customCartridge.name = "7.63×25mm Mauser"; //set a name
             customCartridge.Damage *= 0.8f; //change the damage however you like
+            customCartridge.StartSpeed *= 1.5f; //change other properties
 
             //set the cartridge to the FirearmBehaviour
             firearm.Cartridge = customCartridge;
