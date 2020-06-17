@@ -1,7 +1,6 @@
 BlasterImpact
 FuseBlown
 MetalHit
-EnergyVesselLightning
 Disintegration
 BlasterImpactHole
 Spark
