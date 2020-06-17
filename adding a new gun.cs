@@ -15,10 +15,13 @@ ModAPI.Register(
             var firearm = Instance.GetComponent<FirearmBehaviour>();
 
             //creating a custom cartridge for the gun
-            Cartridge customCartridge = ModAPI.FindCartridge("9mm"); //load an instanced 9mm cartridge
+            Cartridge customCartridge = ModAPI.FindCartridge("9mm"); //load a copy of the 9mm cartridge
             customCartridge.name = "7.63×25mm Mauser"; //set a name
             customCartridge.Damage *= 0.8f; //change the damage however you like
-            customCartridge.StartSpeed *= 1.5f; //change other properties
+            customCartridge.StartSpeed *= 1.5f; //change the bullet velocity
+            customCartridge.PenetrationRandomAngleMultiplier *= 0.5f; //change the accuracy when the bullet travels through an object
+            customCartridge.Recoil *= 0.7f; //change the recoil
+            customCartridge.ImpactForce *= 0.7f; //change how much the bullet pushes the target
 
             //set the cartridge to the FirearmBehaviour
             firearm.Cartridge = customCartridge;
