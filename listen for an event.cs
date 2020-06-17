@@ -17,6 +17,12 @@ namespace Mod
                     wire.SetThickness(0.05f);
                 }
             };
+            
+            // listen for the event that is fired when something is killed
+            ModAPI.OnDeath += (sender, being) => {
+                //notify player of their action
+                ModAPI.Notify("this is really immoral");
+            };
         }
     }
 }
