@@ -1,0 +1,14 @@
+Bowling ball
+Bowling pin
+Brick
+Concrete
+Flammable metal
+Glass
+Gorse
+Human
+Metal
+Plastic
+Rubber
+Snow
+Soft
+Wood
