@@ -12,3 +12,4 @@ Rubber
 Snow
 Soft
 Wood
+Weapon
