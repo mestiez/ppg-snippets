@@ -23,6 +23,12 @@ namespace Mod
                 //notify player of their action
                 ModAPI.Notify("this is really immoral");
             };
+            
+            // listen for gunshot event
+            ModAPI.OnGunShot += (sender, gun) => {
+                //notify player what round the gun uses
+                ModAPI.Notify(gun.Cartridge.name);
+            };
         }
     }
 }
