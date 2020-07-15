@@ -1,0 +1,156 @@
+1000kg Weight
+Acid Syringe
+Activation Fuse
+Activation Transformer
+Adrenaline Syringe
+Aerial Faith Plate
+AK-47
+Anchor
+Android
+Assault Rifle
+Atom Bomb
+Axe
+Balloon
+Baseball Bat
+Battery
+Beam Rifle
+Bell A4
+Bell B4
+Bell C4
+Bell C5
+Bell D4
+Bell E4
+Bell F4
+Bell G4
+Blaster
+Blue cathode light
+Bone Eating Syringe
+Bowling Ball
+Bowling Pin
+Brick
+Brick Wall
+Bus
+Bus Chair
+Button
+Car
+Concrete slab
+Container Wagon
+Crate
+Crossbow
+Crossbow Bolt
+Crystal
+Death Syringe
+Decimator
+Desert Eagle
+Detector
+Disassembler
+Dynamite
+Electricity Transformer
+Electromagnet
+Energy Vessel Explosive
+Fan
+Fire Detector
+Fire Extinguisher
+Fireworks
+Flamethrower
+Floodlight
+Freeze Syringe
+Gate
+General Purpose Bomb
+Generator
+Giant Wooden Bowl
+Glass Pane
+Glock 17
+Gorse
+Green cathode light
+Gyroscope Stabiliser
+Hammer
+Handgrenade
+Human
+I-Beam
+Immobility Field
+Industrial Generator
+Industrial Gyrostabiliser
+Industrial Piston
+Jukebox
+Key Trigger
+Knife
+Knockout Syringe
+Lagbox
+Laser Pointer
+Laser Receiver
+Laser sentry turret
+Life Detector
+Life Syringe
+Light Machine Gun
+Lightbulb
+M1 Garand
+Machine Blaster
+Machine Gun
+Metal Detector
+Metal Wheel
+Metronome
+Mini Thruster
+Minigun
+Mirror
+Missile Launcher
+Motion Detector
+Motorised Wheel
+Pink Explosive
+Pink Syringe
+Pistol
+Piston
+Plank
+Plastic Barrel
+Plate
+PPSH
+Propeller
+Pumpkin
+Purple cathode light
+Radio
+Reconstructor
+Red Barrel
+Red cathode light
+Resistor
+Revolver
+Rigidifier
+Rocket Launcher
+Rod
+Scherbenwerfer
+Sentry Turret
+Shock Detector
+Shotgun
+Siren
+Slider
+Small I-Beam
+Sniper Rifle
+Soap
+Spear
+Spike
+Stick
+Stielhandgranate
+Structural Pillar
+Stunner
+Submachine Gun
+Sword
+Tank
+Television
+Tesla Coil
+Text Display
+Thruster
+Thrusterbed
+Timed Gate
+Truck
+Ultra Strength Syringe
+Vector
+Wheel
+White cathode light
+Winch
+Wing
+Wooden Chair
+Wooden Pole
+Wooden Table
+Worm Staff
+Wrench
+Yellow cathode light
+Zombie Syringe
