@@ -5,6 +5,7 @@ ModAPI.Register(
         OriginalItem = ModAPI.FindSpawnable("Person"), //item to derive from
         NameOverride = "Human but blue -BH", //new item name with a suffix to assure it is globally unique
         DescriptionOverride = "From avatar!!!! (the one with the blue people).", //new item description
+        CategoryOverride = ModAPI.FindCategory("Entities"), //new item category
         ThumbnailOverride = ModAPI.LoadSprite("blueMan.png"), //new item thumbnail (relative path)
         AfterSpawn = (Instance) => //all code in the AfterSpawn delegate will be executed when the item is spawned
         {
