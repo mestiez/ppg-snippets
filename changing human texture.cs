@@ -2,7 +2,7 @@
 ModAPI.Register(
     new Modification()
     {
-        OriginalItem = ModAPI.FindSpawnable("Person"), //item to derive from
+        OriginalItem = ModAPI.FindSpawnable("Human"), //item to derive from
         NameOverride = "Human but blue -BH", //new item name with a suffix to assure it is globally unique
         DescriptionOverride = "From avatar!!!! (the one with the blue people).", //new item description
         CategoryOverride = ModAPI.FindCategory("Entities"), //new item category
