@@ -15,7 +15,9 @@ ModAPI.Register(
             var bone = ModAPI.LoadTexture("blueBone.png");
 
             //use the helper function to set each texture
-            Instance.GetComponent<PersonBehaviour>().SetBodyTextures(skin,flesh,bone);
+            //parameters are as follows: 
+            //  skin texture, flesh texture, bone texture, sprite scale
+            Instance.GetComponent<PersonBehaviour>().SetBodyTextures(skin, flesh, bone, 1);
         }
     }
 );
