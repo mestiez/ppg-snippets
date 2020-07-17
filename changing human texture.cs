@@ -14,10 +14,21 @@ ModAPI.Register(
             var flesh = ModAPI.LoadTexture("blueFlesh.png");
             var bone = ModAPI.LoadTexture("blueBone.png");
 
+            //get person
+            var person = Instance.GetComponent<PersonBehaviour>();
+
             //use the helper function to set each texture
             //parameters are as follows: 
             //  skin texture, flesh texture, bone texture, sprite scale
-            Instance.GetComponent<PersonBehaviour>().SetBodyTextures(skin, flesh, bone, 1);
+            //you can pass "null" to fall back to the original texture
+            person.SetBodyTextures(skin, flesh, bone, 1);
+
+            //change procedural damage colours if they interfere with your texture (rgb 0-255)
+            person.SetBruiseColor(86, 62, 130); //main bruise colour. purple-ish by default
+            person.SetSecondBruiseColor(154, 0, 7); //second bruise colour. red by default
+            person.SetThirdBruiseColor(207, 206, 120); // third bruise colour. light yellow by default
+            person.SetBloodColour(108, 0, 4); // blood clour. dark red by default
+            person.SetRottenColour(202, 199, 104); // rotten/zombie colour. light yellow/green by default
         }
     }
 );
