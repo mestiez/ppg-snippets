@@ -27,8 +27,8 @@ ModAPI.Register(
             person.SetBruiseColor(86, 62, 130); //main bruise colour. purple-ish by default
             person.SetSecondBruiseColor(154, 0, 7); //second bruise colour. red by default
             person.SetThirdBruiseColor(207, 206, 120); // third bruise colour. light yellow by default
-            person.SetBloodColour(108, 0, 4); // blood clour. dark red by default
             person.SetRottenColour(202, 199, 104); // rotten/zombie colour. light yellow/green by default
+            person.SetBloodColour(108, 0, 4); // blood colour. dark red by default. note that this does not change decal nor particle effect colours. it only affects the procedural blood color which may or may not be rendered
         }
     }
 );
