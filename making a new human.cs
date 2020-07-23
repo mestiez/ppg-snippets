@@ -1,4 +1,4 @@
-// register item to the mod api
+// register item to the mod registry
 ModAPI.Register(
     new Modification()
     {
