@@ -16,3 +16,5 @@ BrokenElectronicsSpark
 Explosion
 RedBarrelExplosion
 Flash
+IonExplosion
+Vapor
