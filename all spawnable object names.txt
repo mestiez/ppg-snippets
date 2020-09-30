@@ -28,17 +28,21 @@ Bone Eating Syringe
 Bowling Ball
 Bowling Pin
 Brick
+Brick Cube
 Brick Wall
 Bus
 Bus Chair
 Button
 Car
+Clamp
 Concrete slab
 Container Wagon
+Conveyor Belt
 Crate
 Crossbow
 Crossbow Bolt
 Crystal
+Dampening Box
 Death Syringe
 Decimator
 Desert Eagle
@@ -47,12 +51,14 @@ Disassembler
 Dynamite
 Electricity Transformer
 Electromagnet
+EMP Generator
 Energy Vessel Explosive
 Fan
 Fire Detector
 Fire Extinguisher
 Fireworks
 Flamethrower
+Flashlight
 Floodlight
 Freeze Syringe
 Gate
@@ -72,6 +78,7 @@ Immobility Field
 Industrial Generator
 Industrial Gyrostabiliser
 Industrial Piston
+Ion Cannon
 Jukebox
 Key Trigger
 Knife
@@ -87,7 +94,9 @@ Lightbulb
 M1 Garand
 Machine Blaster
 Machine Gun
+Metal Cube
 Metal Detector
+Metal Pyramid
 Metal Wheel
 Metronome
 Mini Thruster
@@ -122,13 +131,16 @@ Shock Detector
 Shotgun
 Siren
 Slider
+Small Button
 Small I-Beam
 Sniper Rifle
 Soap
 Spear
 Spike
 Stick
+Sticky Grenade
 Stielhandgranate
+Stormbaan
 Structural Pillar
 Stunner
 Submachine Gun
@@ -140,6 +152,7 @@ Text Display
 Thruster
 Thrusterbed
 Timed Gate
+Torch
 Truck
 Ultra Strength Syringe
 Vector
