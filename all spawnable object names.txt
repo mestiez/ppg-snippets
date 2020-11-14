@@ -22,11 +22,14 @@ Bell D4
 Bell E4
 Bell F4
 Bell G4
+BG Signal Converter
 Blaster
+Blood Tank
 Blue cathode light
 Bone Eating Syringe
 Bowling Ball
 Bowling Pin
+BR Signal Converter
 Brick
 Brick Cube
 Brick Wall
@@ -35,6 +38,7 @@ Bus Chair
 Button
 Car
 Clamp
+Coagulation Syringe
 Concrete slab
 Container Wagon
 Conveyor Belt
@@ -72,6 +76,7 @@ Green cathode light
 Gyroscope Stabiliser
 Hammer
 Handgrenade
+Heart Monitor
 Human
 I-Beam
 Immobility Field
@@ -96,6 +101,7 @@ Machine Blaster
 Machine Gun
 Metal Cube
 Metal Detector
+Metal Pole
 Metal Pyramid
 Metal Wheel
 Metronome
@@ -114,6 +120,7 @@ Plastic Barrel
 Plate
 PPSH
 Propeller
+Pulse Drum
 Pumpkin
 Purple cathode light
 Radio
@@ -122,11 +129,13 @@ Red Barrel
 Red cathode light
 Resistor
 Revolver
+RG Signal Converter
 Rigidifier
 Rocket Launcher
 Rod
 Scherbenwerfer
 Sentry Turret
+Servo
 Shock Detector
 Shotgun
 Siren
@@ -161,6 +170,7 @@ White cathode light
 Winch
 Wing
 Wooden Chair
+Wooden Pillar
 Wooden Pole
 Wooden Table
 Worm Staff
