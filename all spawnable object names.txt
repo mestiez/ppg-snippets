@@ -37,6 +37,7 @@ Bus
 Bus Chair
 Button
 Car
+Chainsaw
 Clamp
 Coagulation Syringe
 Concrete slab
@@ -47,9 +48,13 @@ Crossbow
 Crossbow Bolt
 Crystal
 Dampening Box
+De staf van Sinterklaas
 Death Syringe
 Decimator
+Defibrillator
 Desert Eagle
+Detached 120mm Cannon
+Detached Laser Cannon
 Detector
 Disassembler
 Dynamite
@@ -90,6 +95,7 @@ Key Trigger
 Knife
 Knockout Syringe
 Lagbox
+Landmine
 Laser Pointer
 Laser Receiver
 Laser sentry turret
@@ -139,6 +145,7 @@ Sentry Turret
 Servo
 Shock Detector
 Shotgun
+Signal Flare
 Siren
 Slider
 Small Button
