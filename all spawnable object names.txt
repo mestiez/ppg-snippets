@@ -54,6 +54,7 @@ Decimator
 Defibrillator
 Desert Eagle
 Detached 120mm Cannon
+Detached Beam Cannon
 Detached Laser Cannon
 Detector
 Disassembler
