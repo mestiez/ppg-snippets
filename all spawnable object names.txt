@@ -33,6 +33,7 @@ BR Signal Converter
 Brick
 Brick Cube
 Brick Wall
+Bulletproof Sheet
 Bus
 Bus Chair
 Button
@@ -126,6 +127,7 @@ Piston
 Plank
 Plastic Barrel
 Plate
+Power Gauge
 PPSH
 Propeller
 Pulse Drum
@@ -141,6 +143,7 @@ RG Signal Converter
 Rigidifier
 Rocket Launcher
 Rod
+Rotor
 Scherbenwerfer
 Sentry Turret
 Servo
@@ -170,6 +173,7 @@ Text Display
 Thruster
 Thrusterbed
 Timed Gate
+Toggleable Mirror
 Torch
 Truck
 Ultra Strength Syringe

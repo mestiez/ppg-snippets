@@ -1,6 +1,8 @@
+AndroidArmour
 Bowling ball
 Bowling pin
 Brick
+Bulletproof
 Concrete
 Flammable metal
 Glass
@@ -10,6 +12,7 @@ Metal
 Plastic
 Rubber
 Snow
+Soap
 Soft
-Wood
 Weapon
+Wood
