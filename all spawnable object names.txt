@@ -23,7 +23,10 @@ Bell E4
 Bell F4
 Bell G4
 BG Signal Converter
+Bicycle
 Blaster
+Blaster Rifle
+Blood Flask
 Blood Tank
 Blue cathode light
 Bone Eating Syringe
@@ -63,6 +66,7 @@ Dynamite
 Electricity Transformer
 Electromagnet
 EMP Generator
+Energy Sword
 Energy Vessel Explosive
 Fan
 Fire Detector
@@ -70,6 +74,7 @@ Fire Extinguisher
 Fireworks
 Flamethrower
 Flashlight
+Flask
 Floodlight
 Freeze Syringe
 Gate
@@ -79,7 +84,9 @@ Giant Wooden Bowl
 Glass Pane
 Glock 17
 Gorse
+Gorse Blood Flask
 Green cathode light
+Grenade Launcher
 Gyroscope Stabiliser
 Hammer
 Handgrenade
@@ -120,6 +127,10 @@ Mirror
 Missile Launcher
 Motion Detector
 Motorised Wheel
+Nitroglycerine Flask
+Normal Sized Gun
+Oil Flask
+Physics Gun
 Pink Explosive
 Pink Syringe
 Pistol
@@ -134,6 +145,7 @@ Pulse Drum
 Pumpkin
 Purple cathode light
 Radio
+Ramp
 Reconstructor
 Red Barrel
 Red cathode light
@@ -158,6 +170,7 @@ Sniper Rifle
 Soap
 Spear
 Spike
+Spike Grenade
 Stick
 Sticky Grenade
 Stielhandgranate
