@@ -47,6 +47,7 @@ Coagulation Syringe
 Concrete slab
 Container Wagon
 Conveyor Belt
+Cooling Element
 Crate
 Crossbow
 Crossbow Bolt
@@ -77,6 +78,7 @@ Flashlight
 Flask
 Floodlight
 Freeze Syringe
+Freezeray
 Gate
 General Purpose Bomb
 Generator
@@ -91,13 +93,17 @@ Gyroscope Stabiliser
 Hammer
 Handgrenade
 Heart Monitor
+Heating Element
+Heatray
 Holographic Display
+Hovercar
 Human
 I-Beam
 Immobility Field
 Industrial Generator
 Industrial Gyrostabiliser
 Industrial Piston
+Insulator
 Ion Cannon
 Jukebox
 Key Trigger
@@ -183,6 +189,7 @@ Tank
 Television
 Tesla Coil
 Text Display
+Thermometer
 Thruster
 Thrusterbed
 Timed Gate

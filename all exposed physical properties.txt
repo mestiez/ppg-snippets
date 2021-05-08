@@ -8,6 +8,8 @@ Flammable metal
 Glass
 Gorse
 Human
+Ice
+Insulator
 Metal
 Plastic
 Rubber
