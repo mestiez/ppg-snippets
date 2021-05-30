@@ -76,6 +76,7 @@ Fireworks
 Flamethrower
 Flashlight
 Flask
+Flintlock Pistol
 Floodlight
 Freeze Syringe
 Freezeray
@@ -105,11 +106,13 @@ Industrial Gyrostabiliser
 Industrial Piston
 Insulator
 Ion Cannon
+Ion Thruster
 Jukebox
 Key Trigger
 Knife
 Knockout Syringe
 Lagbox
+Lance
 Landmine
 Laser Pointer
 Laser Receiver
