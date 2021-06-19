@@ -41,6 +41,7 @@ Bus
 Bus Chair
 Button
 Car
+Ceiling Turret
 Chainsaw
 Clamp
 Coagulation Syringe
@@ -67,6 +68,7 @@ Dynamite
 Electricity Transformer
 Electromagnet
 EMP Generator
+Empty Syringe
 Energy Sword
 Energy Vessel Explosive
 Fan
@@ -121,9 +123,11 @@ Life Detector
 Life Syringe
 Light Machine Gun
 Lightbulb
+Liquidentifier
 M1 Garand
 Machine Blaster
 Machine Gun
+Mending Syringe
 Metal Cube
 Metal Detector
 Metal Pole
