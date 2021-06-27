@@ -82,6 +82,7 @@ Flintlock Pistol
 Floodlight
 Freeze Syringe
 Freezeray
+Fusion Bomb
 Gate
 General Purpose Bomb
 Generator
@@ -123,6 +124,7 @@ Life Detector
 Life Syringe
 Light Machine Gun
 Lightbulb
+Liquid Valve
 Liquidentifier
 M1 Garand
 Machine Blaster
@@ -205,6 +207,7 @@ Torch
 Truck
 Ultra Strength Syringe
 Vector
+Water Breathing Syringe
 Wheel
 White cathode light
 Winch
