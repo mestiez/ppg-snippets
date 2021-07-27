@@ -196,6 +196,7 @@ Submachine Gun
 Sword
 Tank
 Television
+Tempered Glass Pane
 Tesla Coil
 Text Display
 Thermometer

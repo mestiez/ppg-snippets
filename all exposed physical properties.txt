@@ -9,6 +9,7 @@ Glass
 Gorse
 Human
 Ice
+Incredible
 Insulator
 Metal
 Plastic
@@ -16,5 +17,6 @@ Rubber
 Snow
 Soap
 Soft
+Tempered Glass
 Weapon
 Wood
