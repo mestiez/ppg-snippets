@@ -1,6 +1,8 @@
 1000kg Weight
+Accumulator
 Acid Syringe
 Activation Fuse
+Activation Toggle
 Activation Transformer
 Adrenaline Syringe
 Aerial Faith Plate
@@ -29,6 +31,7 @@ Blaster Rifle
 Blood Flask
 Blood Tank
 Blue cathode light
+Blue LED Bulb
 Bone Eating Syringe
 Bowling Ball
 Bowling Pin
@@ -92,6 +95,7 @@ Glock 17
 Gorse
 Gorse Blood Flask
 Green cathode light
+Green LED Bulb
 Grenade Launcher
 Gyroscope Stabiliser
 Hammer
@@ -100,6 +104,7 @@ Heart Monitor
 Heating Element
 Heatray
 Holographic Display
+Hover Thruster
 Hovercar
 Human
 I-Beam
@@ -124,6 +129,7 @@ Life Detector
 Life Syringe
 Light Machine Gun
 Lightbulb
+Liquid Pressuriser
 Liquid Valve
 Liquidentifier
 M1 Garand
@@ -155,6 +161,7 @@ Plastic Barrel
 Plate
 Power Gauge
 PPSH
+Pressure Valve
 Propeller
 Pulse Drum
 Pumpkin
@@ -164,6 +171,7 @@ Ramp
 Reconstructor
 Red Barrel
 Red cathode light
+Red LED Bulb
 Resistor
 Revolver
 RG Signal Converter
@@ -186,6 +194,7 @@ Soap
 Spear
 Spike
 Spike Grenade
+Spike Rifle
 Stick
 Sticky Grenade
 Stielhandgranate
@@ -211,6 +220,7 @@ Vector
 Water Breathing Syringe
 Wheel
 White cathode light
+White LED Bulb
 Winch
 Wing
 Wooden Chair
