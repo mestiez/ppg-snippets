@@ -10,5 +10,5 @@ glow.Brightness = 1500;
 //devour the world
 glow.Radius = 1000;
 
-//it's a component of a new child GameObject so you can set its position
+//it's a component of a new child GameObject so you can set its local position
 glow.transform.localPosition = new Vector3(0,0,0);

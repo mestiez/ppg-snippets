@@ -9,7 +9,8 @@ ModAPI.Register(
         ThumbnailOverride = ModAPI.LoadSprite("daggerView.png"), //new item thumbnail (relative path)
         AfterSpawn = (Instance) => //all code in the AfterSpawn delegate will be executed when the item is spawned
         {
-            Instance.GetComponent<SpriteRenderer>().sprite = ModAPI.LoadSprite("dagger.png"); //get the SpriteRenderer and replace its sprite with a custom one
+            //get the SpriteRenderer and replace its sprite with a custom one
+            Instance.GetComponent<SpriteRenderer>().sprite = ModAPI.LoadSprite("dagger.png"); 
         }
     }
 );
