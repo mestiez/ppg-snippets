@@ -16,14 +16,7 @@ Balloon
 Baseball Bat
 Battery
 Beam Rifle
-Bell A4
-Bell B4
-Bell C4
-Bell C5
-Bell D4
-Bell E4
-Bell F4
-Bell G4
+Bell
 BG Signal Converter
 Bicycle
 Blaster
@@ -112,6 +105,7 @@ Immobility Field
 Industrial Generator
 Industrial Gyrostabiliser
 Industrial Piston
+Infrared Thermometer
 Insulator
 Ion Cannon
 Ion Thruster
@@ -120,7 +114,6 @@ Key Trigger
 Knife
 Knockout Syringe
 Lagbox
-Lance
 Landmine
 Laser Pointer
 Laser Receiver
@@ -130,6 +123,7 @@ Life Detector
 Life Syringe
 Light Machine Gun
 Lightbulb
+Liquid Outlet
 Liquid Pressuriser
 Liquid Valve
 Liquidentifier
@@ -217,6 +211,7 @@ Toggleable Mirror
 Torch
 Truck
 Ultra Strength Syringe
+Vase
 Water Breathing Syringe
 Wheel
 White cathode light

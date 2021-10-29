@@ -3,6 +3,7 @@ Bowling ball
 Bowling pin
 Brick
 Bulletproof
+Ceramic
 Concrete
 Flammable metal
 Glass
