@@ -17,6 +17,7 @@ Axe
 Balloon
 Baseball Bat
 Battery
+Bazooka
 Beam Rifle
 Bell
 BG Signal Converter
@@ -26,8 +27,9 @@ Blaster Rifle
 Blood Flask
 Blood Tank
 Blue cathode light
-Blue LED Bulb
+Boat Motor
 Bone Eating Syringe
+Bottle
 Bowling Ball
 Bowling Pin
 BR Signal Converter
@@ -40,6 +42,7 @@ Bus Chair
 Button
 Car
 Ceiling Turret
+Centrifuge
 Chainsaw
 Clamp
 Coagulation Syringe
@@ -90,7 +93,6 @@ Glass Pane
 Gorse
 Gorse Blood Flask
 Green cathode light
-Green LED Bulb
 Grenade Launcher
 Gyroscope Stabiliser
 Hammer
@@ -119,10 +121,12 @@ Knockout Syringe
 Lagbox
 Lance
 Landmine
+Large Bush
 Laser Pointer
 Laser Receiver
 Laser sentry turret
 Launch Platform
+LED Bulb
 Life Detector
 Life Syringe
 Light Machine Gun
@@ -133,6 +137,7 @@ Liquid Valve
 Liquidentifier
 Machine Blaster
 Machine Gun
+Magnum Revolver
 Mending Syringe
 Metal Cube
 Metal Detector
@@ -149,6 +154,7 @@ Motorised Wheel
 Nitroglycerine Flask
 Normal Sized Gun
 Oil Flask
+Particle Projector
 Physics Gun
 Pink Explosive
 Pink Syringe
@@ -159,6 +165,7 @@ Plastic Barrel
 Plastic Explosive
 Plate
 Power Gauge
+Power Hammer
 Pressure Valve
 Propeller
 Pulse Drum
@@ -169,8 +176,8 @@ Ramp
 Reconstructor
 Red Barrel
 Red cathode light
-Red LED Bulb
 Resistor
+Resizable Housing
 Revolver
 RG Signal Converter
 Rifle
@@ -186,6 +193,7 @@ Shotgun
 Signal Flare
 Siren
 Slider
+Small Bush
 Small Button
 Small I-Beam
 Sniper Rifle
@@ -195,6 +203,7 @@ Spear
 Spike
 Spike Grenade
 Spike Rifle
+Spot Light
 Stick
 Sticky Grenade
 Stielhandgranate
@@ -203,6 +212,7 @@ Structural Pillar
 Stunner
 Submachine Gun
 Sword
+Tall Tree
 Tank
 Television
 Tempered Glass Pane
@@ -220,13 +230,13 @@ Vase
 Water Breathing Syringe
 Wheel
 White cathode light
-White LED Bulb
 Winch
 Wing
 Wooden Chair
 Wooden Pillar
 Wooden Pole
 Wooden Table
+Wooden Wheel
 Worm Staff
 Wrench
 Yellow cathode light
