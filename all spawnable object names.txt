@@ -81,6 +81,7 @@ Flashlight
 Flask
 Flintlock Pistol
 Floodlight
+Fluorescent Lamp
 Freeze Syringe
 Freezeray
 Fusion Bomb
@@ -131,6 +132,7 @@ Life Detector
 Life Syringe
 Light Machine Gun
 Lightbulb
+Liquid Canister
 Liquid Outlet
 Liquid Pressuriser
 Liquid Valve
@@ -154,6 +156,7 @@ Motorised Wheel
 Nitroglycerine Flask
 Normal Sized Gun
 Oil Flask
+Painkiller Syringe
 Particle Projector
 Physics Gun
 Pink Explosive
@@ -193,6 +196,7 @@ Shotgun
 Signal Flare
 Siren
 Slider
+Small Boulder
 Small Bush
 Small Button
 Small I-Beam
