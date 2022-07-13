@@ -41,11 +41,13 @@ Bus
 Bus Chair
 Button
 Car
+Cardiopulmonary Bypass Machine
 Ceiling Turret
 Centrifuge
 Chainsaw
 Clamp
 Coagulation Syringe
+Cobblestone Wall
 Concrete slab
 Container Wagon
 Conveyor Belt
@@ -63,6 +65,7 @@ Detached 120mm Cannon
 Detached 30mm HEAT Cannon
 Detached Beam Cannon
 Detached Laser Cannon
+Detached Ray Cannon
 Detector
 Disassembler
 Dynamite
@@ -133,6 +136,7 @@ Life Syringe
 Light Machine Gun
 Lightbulb
 Liquid Canister
+Liquid Duplicator
 Liquid Outlet
 Liquid Pressuriser
 Liquid Valve
@@ -211,6 +215,8 @@ Spot Light
 Stick
 Sticky Grenade
 Stielhandgranate
+Stone Brick
+Stone Brick Wall
 Stormbaan
 Structural Pillar
 Stunner
