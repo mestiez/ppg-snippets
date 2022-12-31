@@ -1,4 +1,5 @@
 AndroidArmour
+Bottle
 Bowling ball
 Bowling pin
 Brick
@@ -8,12 +9,14 @@ Concrete
 Flammable metal
 Glass
 Gorse
+Hollow metal
 Human
 Ice
 Incredible
 Insulator
 Metal
 Plastic
+Rock
 Rubber
 Snow
 Soap

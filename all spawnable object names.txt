@@ -6,6 +6,7 @@ Acid Syringe
 Activation Fuse
 Activation Toggle
 Activation Transformer
+Activator Electrode
 Adrenaline Syringe
 AK-47
 Anchor
@@ -40,6 +41,7 @@ Bulletproof Sheet
 Bus
 Bus Chair
 Button
+Capacitor Attachment
 Car
 Cardiopulmonary Bypass Machine
 Ceiling Turret
@@ -75,12 +77,14 @@ EMP Generator
 Empty Syringe
 Energy Sword
 Energy Vessel Explosive
+Explosive Rounds Attachment
 Fan
 Fire Detector
 Fire Extinguisher
 Fireworks
 Flamethrower
 Flashlight
+Flashlight Attachment
 Flask
 Flintlock Pistol
 Floodlight
@@ -111,6 +115,7 @@ Hovercar
 Human
 I-Beam
 Immobility Field
+Incendiary Rounds Attachment
 Industrial Generator
 Industrial Gyrostabiliser
 Industrial Piston
@@ -118,6 +123,7 @@ Infrared Thermometer
 Insulator
 Ion Cannon
 Ion Thruster
+Jet Engine
 Jukebox
 Key Trigger
 Knife
@@ -126,6 +132,7 @@ Lagbox
 Lance
 Landmine
 Large Bush
+Laser Attachment
 Laser Pointer
 Laser Receiver
 Laser sentry turret
@@ -193,6 +200,7 @@ Rocket Launcher
 Rod
 Rotor
 Scherbenwerfer
+Scope Attachment
 Sentry Turret
 Servo
 Shock Detector
